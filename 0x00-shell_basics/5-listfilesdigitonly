@@ -1,4 +1,2 @@
- -al
 #!/bin/bash
 ls -al
-
